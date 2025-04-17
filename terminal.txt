@@ -1,3 +1,5 @@
+rmdir /s /q my_env
+
 py -3.13 -m venv my_env
 
 my_env\Scripts\activate
